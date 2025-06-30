@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1234",
+        "versionCodes": [
+            18
+        ],
+        "payload": {
+            "type": "Update"
+        }
+    },
+    {
+        "id": "5679",
+        "versionCodes": [
+            17,
+            18
+        ],
+        "payload": {
+            "type": "Bug",
+            "message": "bonjour les amis"
+        }
+    },
+    {
+        "id": "489",
+        "versionCodes": [
+            19
+        ],
+        "payload": {
+            "type": "Bug",
+            "message": "Aurevoir les amis"
+        }
+    }
+]
