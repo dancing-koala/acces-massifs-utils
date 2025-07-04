@@ -16,7 +16,7 @@
         ],
         "payload": {
             "type": "Bug",
-            "message": "bonjour les amis"
+            "message": "Un bug de l'application rend les données non-fiables, merci de vous référer au site officiel."
         }
     },
     {
