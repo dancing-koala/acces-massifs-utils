@@ -1,0 +1,22 @@
+[
+    {
+        "id": "20250701-1236",
+        "versionCodes": [
+            18
+        ],
+        "payload": {
+            "type": "Update"
+        }
+    },
+    {
+        "id": "20250701-1237",
+        "versionCodes": [
+            17,
+            18
+        ],
+        "payload": {
+            "type": "Bug",
+            "message": "Un bug de l'application rend les données non-fiables, merci de vous référer au site officiel."
+        }
+    }
+]
