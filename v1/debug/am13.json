@@ -2,7 +2,8 @@
     {
         "id": "20250701-1236",
         "versionCodes": [
-            18
+            18,
+            20
         ],
         "payload": {
             "type": "Update"
@@ -12,7 +13,8 @@
         "id": "20250701-1237",
         "versionCodes": [
             17,
-            18
+            18,
+            20
         ],
         "payload": {
             "type": "Bug",
